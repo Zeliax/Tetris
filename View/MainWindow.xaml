@@ -1,0 +1,63 @@
+﻿<Window x:Class="Tetris.View.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Model="clr-namespace:Tetris.Model"
+        xmlns:View="clr-namespace:Tetris.View"
+        xmlns:i ="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+        xmlns:cmd="clr-namespace:GalaSoft.MvvmLight.Command;assembly=GalaSoft.MvvmLight.Extras.WPF4"
+        
+        Title="Tetris" Height="730" Width="600" ResizeMode="NoResize" >
+    
+    <i:Interaction.Triggers>
+        <i:EventTrigger EventName="KeyUp">
+            <cmd:EventToCommand Command="{Binding DataContext.MoveBrickCommand, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Window}}}" PassEventArgsToCommand="True"/>
+        </i:EventTrigger>
+    </i:Interaction.Triggers>
+    
+    <Window.Resources>
+        <DataTemplate DataType="{x:Type Model:Brick}">
+            <Canvas>
+                <View:BrickControl Canvas.Left="{Binding VisualX}" Canvas.Top="{Binding VisualY}"/> 
+            </Canvas>
+        </DataTemplate>
+    </Window.Resources>
+    
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="350" />
+            <ColumnDefinition />
+        </Grid.ColumnDefinitions>
+
+        <Canvas Grid.Column="0" HorizontalAlignment="Left" x:Name="Canvas_Game" VerticalAlignment="Top">
+            <ItemsControl ItemsSource="{Binding Bricks}"/>
+        </Canvas>
+
+        <Grid Grid.Column="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="2*" />
+                <RowDefinition Height="3*" />
+                <RowDefinition Height="3*" />
+            </Grid.RowDefinitions>
+
+            <Canvas Grid.Row="0">
+
+            </Canvas>
+            <GroupBox Grid.Row="1" x:Name="Groupbox_Collection">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                        <RowDefinition Height="1*" />
+                    </Grid.RowDefinitions>
+
+                    <TextBlock Grid.Row="0" x:Name="Text_Score" Text="Your score is 0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBlock Grid.Row="1" x:Name="Text_Level" Text="You're on level 0" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                    <TextBlock Grid.Row="2" x:Name="Text_Lines" Text="You've completed 0 lines" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+                </Grid>
+            </GroupBox>
+            <ListBox Grid.Row="2">
+                <TextBlock x:Name="Text_Highscores" Text="Player 1 scored XXXXX points"/>
+            </ListBox>
+        </Grid>
+    </Grid>
+</Window>

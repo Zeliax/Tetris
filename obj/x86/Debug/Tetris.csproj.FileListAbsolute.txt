@@ -1,0 +1,177 @@
+C:\Tetris\bin\Debug\Tetris.exe
+C:\Tetris\bin\Debug\Tetris.pdb
+C:\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Tetris\obj\x86\Debug\App.g.cs
+C:\Tetris\obj\x86\Debug\Tetris_MarkupCompile.cache
+C:\Tetris\obj\x86\Debug\Tetris.g.resources
+C:\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+C:\Tetris\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Tetris\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Tetris\obj\x86\Debug\Tetris.exe
+C:\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Tetris\obj\x86\Debug\View\MainWindow.g.cs
+C:\Tetris\obj\x86\Debug\Tetris_MarkupCompile.lref
+C:\Tetris\obj\x86\Debug\App.baml
+C:\Tetris\obj\x86\Debug\View\MainWindow.baml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\Tetris.exe
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\bin\Debug\Tetris.exe
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\bin\Debug\Tetris.pdb
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\View\MainWindow.g.cs
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\App.g.cs
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\Tetris_MarkupCompile.cache
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\Tetris_MarkupCompile.lref
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\App.baml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\View\MainWindow.baml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\Tetris.g.resources
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Tetris\bin\Debug\System.Windows.Interactivity.xml
+C:\Tetris\bin\Debug\System.Windows.Interactivity.dll
+C:\Tetris\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Tetris\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Tetris\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Tetris\bin\Debug\System.Windows.Interactivity.xml
+C:\Tetris\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\Tetris\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Tetris\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Tetris\obj\x86\Debug\View\BrickControl.g.cs
+C:\Tetris\obj\x86\Debug\View\BrickControl.baml
+C:\Tetris\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\Tetris.exe
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\Tetris.pdb
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Tetris.exe
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Tetris.pdb
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Expression.Controls.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Expression.Drawing.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Expression.Effects.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Expression.Prototyping.SketchControls.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Expression.Controls.xml
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Expression.Drawing.xml
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Expression.Effects.xml
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Expression.Interactions.xml
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\View\BrickControl.g.cs
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\View\MainWindow.g.cs
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\App.g.cs
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\Tetris_MarkupCompile.cache
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\Tetris_MarkupCompile.lref
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\App.baml
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\View\BrickControl.baml
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\View\MainWindow.baml
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\Tetris.g.resources
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\Tetris.Properties.Resources.resources
+C:\Users\Thomas Hammerbak\Desktop\New folder\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\Tetris.exe
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\Tetris.pdb
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\Tetris.exe
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\Tetris.pdb
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\Tetris.csprojResolveAssemblyReference.cache
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\View\BrickControl.g.cs
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\View\MainWindow.g.cs
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\App.g.cs
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\Tetris_MarkupCompile.cache
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\Tetris_MarkupCompile.lref
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\App.baml
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\View\BrickControl.baml
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\View\MainWindow.baml
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\Tetris.g.resources
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\Tetris.Properties.Resources.resources
+C:\Users\Thomas Hammerbak\workspace\DTUTetris\obj\x86\Debug\Tetris.csproj.GenerateResource.Cache
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\Tetris.exe
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\Tetris.pdb
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\Tetris.exe
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\Tetris.pdb
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\GalaSoft.MvvmLight.WPF4.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\GalaSoft.MvvmLight.Extras.WPF4.xml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\GalaSoft.MvvmLight.WPF4.xml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\View\BrickControl.g.cs
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\View\MainWindow.g.cs
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\App.g.cs
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\Tetris_MarkupCompile.cache
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\Tetris_MarkupCompile.lref
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\App.baml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\View\BrickControl.baml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\View\MainWindow.baml
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\Tetris.g.resources
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\Tetris.Properties.Resources.resources
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Anders\Desktop\Dropbox\DTU\Windows Programmering\Thomas\6November\obj\x86\Debug\GenerateResource.write.1.tlog

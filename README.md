@@ -1,4 +1,2 @@
-Tetris
-======
-
-A tetris game
+DTUTetris
+=========

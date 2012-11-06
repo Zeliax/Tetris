@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tetris", "Tetris.csproj", "{FD283B0B-21F6-45A6-B8A8-EC36B66BDA96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD283B0B-21F6-45A6-B8A8-EC36B66BDA96}.Debug|x86.ActiveCfg = Debug|x86
+		{FD283B0B-21F6-45A6-B8A8-EC36B66BDA96}.Debug|x86.Build.0 = Debug|x86
+		{FD283B0B-21F6-45A6-B8A8-EC36B66BDA96}.Release|x86.ActiveCfg = Release|x86
+		{FD283B0B-21F6-45A6-B8A8-EC36B66BDA96}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

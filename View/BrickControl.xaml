@@ -1,0 +1,13 @@
+﻿<UserControl x:Class="Tetris.View.BrickControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:Model="clr-namespace:Tetris.Model"
+             xmlns:View="clr-namespace:Tetris.View"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Rectangle Fill="Blue" Stroke="Black" StrokeThickness="1" Width="{Binding Width}" Height="{Binding Height}"/>
+    </Grid>
+</UserControl>
